@@ -15,6 +15,7 @@ DESCRIBE producto;
 INSERT INTO producto VALUES
 	(1, 'PC Lenovo', 1200, 1),
     (2, 'PC DELL', 1000, 22),
-    (3, 'PC ASUS', 700, 30);
+    (3, 'PC ASUS', 700, 30),
+    (4, 'Luis Felipe Gonzalez Escobar', 1200, 1);
 
 SELECT * FROM producto;
